@@ -1,0 +1,69 @@
+Dobles de Prueba
+2020-06-04
+
+Alejandro Rodríguez
+@ajrdrgz
+aj.sofwaredeveloper@gmail.com
+
+* Overview
+
+- ¿Qué es un doble de prueba?
+- ¿Para que sirve un doble de prueba?
+- ¿Cuál es la diferencia entre un stub y un mock?
+
+.background images/background.png
+
+* Una Peli
+
+.background images/background.png
+
+.image images/wallpaper.jpg 450 800
+
+* Dobles
+
+.background images/background.png
+.image images/doubleCapitanAmerica.jpg 500 600
+
+* Prueba Unitaria
+
+.background images/background.png
+.image images/testScene.gif 400 700
+
+* Stub
+
+.background images/background.png
+.image images/stub.png 500 700
+
+* Código
+
+.background images/background.png
+.code code/code1.go
+
+* Stub
+
+.background images/background.png
+.code code/stub.go /^//START/,/^//END/
+
+* Mock
+
+.background images/background.png
+.image images/mock.png 500 700
+
+* Código
+
+.background images/background.png
+.code code/code1.go
+
+* Mock
+
+.background images/background.png
+.code code/mock.go /^//START/,/^//END/
+
+* Escena
+
+.background images/background.png
+.image images/escena.gif 400 700
+
+* Mejor usa dobles
+
+.image images/entendilareferencia.jpeg 400 700
